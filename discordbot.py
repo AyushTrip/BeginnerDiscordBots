@@ -84,5 +84,6 @@ async def whoasked(ctx):
     await ctx.send(file=f,embed=e)
 
 #Run client key
+#This isn't the key anymore - so don't try anything
 client.run('NzYzOTY2OTg3MzEwOTg5MzEz.X3_Zsw.vjpnFNNdZfdT1Oz96cfa3GXYrMk')
 
