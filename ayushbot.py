@@ -129,4 +129,4 @@ async def bedwars(ctx, userid):
 
 
 #Run client key
-client.run('NzYzOTY2OTg3MzEwOTg5MzEz.X3_Zsw.32bRceKDVLQT-N_qTRYxfdClXds')
+client.run(insert token here)
